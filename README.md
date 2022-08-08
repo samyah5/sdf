@@ -42,9 +42,35 @@ https://user-images.githubusercontent.com/108360083/183418168-a5df57e0-ed32-4e2f
 3. USB Cable for arduino UNO
 4. Arduino wire
 5. Relay
-6. power source
+6. power 
 7. breadboard
 
 
 **STEP1: Connecting the brushless motor circuit**
+![image](https://user-images.githubusercontent.com/108360083/183435528-fd4d69ee-7ff1-44ce-bedd-6d4c4cac2bcf.png)
+
+**STEP2: Uploading the code**
+
+Open the code : File> Examples> Basics> Blink
+
+```
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+```
+
+
+https://user-images.githubusercontent.com/108360083/183437547-e54bdc3f-6dc3-4e74-903f-6dfe3b00b5f4.mov
+
+
+
 
