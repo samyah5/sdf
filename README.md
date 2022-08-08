@@ -44,6 +44,7 @@ https://user-images.githubusercontent.com/108360083/183418168-a5df57e0-ed32-4e2f
 5. Relay
 6. power 
 7. breadboard
+8. controller
 
 
 **STEP1: Connecting the brushless motor circuit**
