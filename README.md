@@ -7,7 +7,7 @@
 **Hardware Required** 
 1. servo motor
 2. Arduino Uno
-3. connecting wires
+3.  USB Cable for arduino UNO
 4. Arduino wire
 
 **STEP1: Connecting the servo motor circuit**
@@ -35,3 +35,16 @@ https://user-images.githubusercontent.com/108360083/183418168-a5df57e0-ed32-4e2f
 
 
 ## Running the brushless motor on the Arduino
+
+**Hardware Required** 
+1. brushless motor 
+2. Arduino Uno
+3. USB Cable for arduino UNO
+4. Arduino wire
+5. Relay
+6. power source
+7. breadboard
+
+
+**STEP1: Connecting the brushless motor circuit**
+
